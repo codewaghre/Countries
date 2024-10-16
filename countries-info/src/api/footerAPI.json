@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Mumbai, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "8828686193"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "waghreabhishek@gmail.com"
+  }
+] 
