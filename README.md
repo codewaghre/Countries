@@ -1,5 +1,7 @@
 # Countries
-Webiste About the  fetch  data for all countries using react js, AXIOS, data Manaupluate like ascending and descending, filter, search  feautres.
+
+This project taught me how to utilize CSS and HTML. 
+React Dom, React Router Dom, fetch  data for all countries using react js, AXIOS, data Manaupluate like ascending and descending, filter, search  feautres.
 
 <!-- TABLE OF CONTENTS -->
 <details>
