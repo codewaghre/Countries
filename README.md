@@ -67,6 +67,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Javascript
 * Fetch
 * Babel JS
+* React JS
+* Axios
+  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,6 +104,10 @@ This is an example of how to list things you need to use the software and how to
 - [3] JavsScript Foundation 
 - [4] Advance Javascript 
 - [5] Solve Machine coding Questions
+- [6] learn react hooks
+- [7] learn how react js works Under the hood
+- [8] How to fetch data in React js using fetch and Axios
+  
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
